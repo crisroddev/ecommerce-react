@@ -26,3 +26,7 @@ body{
 .text-bright{
   color: var(--lightBlue);
 }
+
+.cart-logo{
+  margin-right: 1rem;
+}
